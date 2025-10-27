@@ -1,0 +1,5 @@
+{
+  "name": "Termux Command Generator",
+  "description": "Generate Termux commands from natural language descriptions. Describe what you want to do, and the AI will provide the corresponding command or script, ready to be copied and pasted into your Termux terminal.",
+  "requestFramePermissions": []
+}
